@@ -1,6 +1,6 @@
 START BUILDING THE IMAGE
 
-docker build -t reverseproxy
+docker build -t reverseproxy .
 
 Check if was create
 
